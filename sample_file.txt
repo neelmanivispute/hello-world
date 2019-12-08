@@ -1,2 +1,4 @@
 Doing dummy changes
-Added line 1
+Added line 12
+Added line 2
+
